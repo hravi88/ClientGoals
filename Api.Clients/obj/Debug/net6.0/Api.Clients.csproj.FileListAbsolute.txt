@@ -1,0 +1,136 @@
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\appsettings.json
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Api.Clients.exe
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Api.Clients.deps.json
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Api.Clients.runtimeconfig.json
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Api.Clients.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Api.Clients.pdb
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\obj\Debug\net6.0\Api.Clients.csproj.AssemblyReference.cache
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\obj\Debug\net6.0\Api.Clients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\obj\Debug\net6.0\Api.Clients.AssemblyInfoInputs.cache
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\obj\Debug\net6.0\Api.Clients.AssemblyInfo.cs
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\obj\Debug\net6.0\Api.Clients.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\obj\Debug\net6.0\Api.Clients.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\obj\Debug\net6.0\Api.Clients.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\obj\Debug\net6.0\scopedcss\bundle\Api.Clients.styles.css
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\obj\Debug\net6.0\Api.Clients.csproj.CopyComplete
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\obj\Debug\net6.0\Api.Clients.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\obj\Debug\net6.0\refint\Api.Clients.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\obj\Debug\net6.0\Api.Clients.pdb
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\obj\Debug\net6.0\Api.Clients.genruntimeconfig.cache
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\obj\Debug\net6.0\ref\Api.Clients.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Humanizer.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Api.Clients.Dtos.deps.json
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Api.Clients.Dtos.runtimeconfig.json
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Api.Clients.Dtos.exe
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\client-app\package-lock.json
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\client-app\package.json
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\client-app\public\manifest.json
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Api.Clients.Dtos.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\Api.Clients.Dtos.pdb
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\client-app\build\manifest.json
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\client-app\tsconfig.eslint.json
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients\bin\Debug\net6.0\client-app\tsconfig.json
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\appsettings.Development.json
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\appsettings.json
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\client-app\build\manifest.json
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\client-app\package-lock.json
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\client-app\package.json
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\client-app\public\manifest.json
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\client-app\tsconfig.eslint.json
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\client-app\tsconfig.json
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Api.Clients.Dtos.deps.json
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Api.Clients.Dtos.runtimeconfig.json
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Api.Clients.Dtos.exe
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Api.Clients.exe
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Api.Clients.deps.json
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Api.Clients.runtimeconfig.json
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Api.Clients.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Api.Clients.pdb
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\AutoMapper.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Humanizer.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Api.Clients.Dtos.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\bin\Debug\net6.0\Api.Clients.Dtos.pdb
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\obj\Debug\net6.0\Api.Clients.csproj.AssemblyReference.cache
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\obj\Debug\net6.0\Api.Clients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\obj\Debug\net6.0\Api.Clients.AssemblyInfoInputs.cache
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\obj\Debug\net6.0\Api.Clients.AssemblyInfo.cs
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\obj\Debug\net6.0\Api.Clients.csproj.CoreCompileInputs.cache
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\obj\Debug\net6.0\Api.Clients.MvcApplicationPartsAssemblyInfo.cs
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\obj\Debug\net6.0\Api.Clients.MvcApplicationPartsAssemblyInfo.cache
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\obj\Debug\net6.0\staticwebassets.build.json
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\obj\Debug\net6.0\staticwebassets.development.json
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\obj\Debug\net6.0\scopedcss\bundle\Api.Clients.styles.css
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\obj\Debug\net6.0\Api.Clients.csproj.CopyComplete
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\obj\Debug\net6.0\Api.Clients.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\obj\Debug\net6.0\refint\Api.Clients.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\obj\Debug\net6.0\Api.Clients.pdb
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\obj\Debug\net6.0\Api.Clients.genruntimeconfig.cache
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients\obj\Debug\net6.0\ref\Api.Clients.dll

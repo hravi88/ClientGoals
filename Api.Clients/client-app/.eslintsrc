@@ -1,0 +1,125 @@
+{
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+        "project": "./tsconfig.eslint.json",
+        "ecmaFeatures": {
+            "legacyDecorators": true,
+            "jsx": true,
+            "modules": true,
+            "experimentalObjectRestSpread": true
+        }
+    },
+    "extends": [
+        "airbnb-typescript",
+        "prettier",
+        "prettier/@typescript-eslint",
+        "plugin:jest/recommended"
+    ],
+    "plugins": ["react", "jsx-a11y", "import", "jest", "@typescript-eslint"],
+    "globals": {
+        "jest": true,
+        "document": true,
+        "module": true,
+        "process": true,
+        "window": true,
+        "global": true
+    },
+    "env": {
+        "browser": true,
+        "node": false,
+        "jest": true,
+        "commonjs": true,
+        "es6": true
+    },
+    "rules": {
+        "arrow-parens": ["error", "as-needed"],
+        "block-spacing": "error",
+        "brace-style": "error",
+        "comma-dangle": [
+            "error",
+            {
+                "arrays": "always-multiline",
+                "objects": "always-multiline",
+                "imports": "always-multiline",
+                "exports": "always-multiline",
+                "functions": "never"
+            }
+        ],
+        "eol-last": "error",
+        "guard-for-in": "error",
+        "import/order": [
+            "error",
+            {
+                "groups": ["builtin", "external", "parent", "index", "sibling"]
+            }
+        ],
+        "jsx-quotes": ["error", "prefer-double"],
+        "quotes": ["error", "single", { "avoidEscape": true }],
+        "no-console": "error",
+        "no-bitwise": "error",
+        "no-eval": "error",
+        "no-multiple-empty-lines": "error",
+        "no-multi-spaces": "error",
+        "no-param-reassign": 0,
+        "no-trailing-spaces": "error",
+        "no-underscore-dangle": "off",
+        "no-var": "error",
+        "object-curly-spacing": ["error", "always"],
+        "padded-blocks": ["error", { "blocks": "never" }],
+        "prefer-const": "error",
+        "import/prefer-default-export": "off",
+        "spaced-comment": "error",
+        "dot-notation": "error",
+        "no-unused-expressions": "error",
+        "no-unused-vars": "off",
+        "@typescript-eslint/no-unused-vars": "error",
+        "no-use-before-define": "off",
+        "@typescript-eslint/no-use-before-define": ["error"],
+        "import/no-cycle": [2, { "maxDepth": 1 }],
+        "curly": "error",
+        "array-callback-return": "off",
+        "react-hooks/exhaustive-deps": "off",
+        "indent": ["error", 4, { "SwitchCase": 1 }],
+        "react/jsx-indent": ["error", 4],
+        "react/jsx-indent-props": ["error", 4],
+        "linebreak-style": ["error", "windows"],
+        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
+        "jest/no-disabled-tests": "warn",
+        "jest/no-focused-tests": "error",
+        "jest/no-identical-title": "error",
+        "jest/valid-expect": "error",
+        "jsx-a11y/label-has-for": "off",
+        "react/prop-types": "off",
+        "react/destructuring-assignment": "off",
+        "import/no-extraneous-dependencies": [
+            "error",
+            {
+                "devDependencies": [
+                    "api-stub/**",
+                    "**/*.test.js",
+                    "**/*.stories.js",
+                    "**/*.spec.ts"
+                ]
+            }
+        ],
+        "import/extensions": "off",
+        "react/jsx-one-expression-per-line": "off",
+        "max-len": ["error", { "code": 150 }]
+    },
+    "overrides": [
+        {
+            "files": ["*.spec.tsx", "*.spec.ts"],
+            "rules": {
+                "max-len": "off"
+            }
+        }
+    ],
+    "settings": {
+        "import/resolver": {
+            "node": {
+                "paths": ["./src"],
+                "extensions": [".js", ".jsx", ".ts", ".tsx"]
+            }
+        }
+    }
+}

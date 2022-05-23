@@ -1,0 +1,30 @@
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients.Dtos\bin\Debug\net6.0\Api.Clients.Dtos.exe
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients.Dtos\bin\Debug\net6.0\Api.Clients.Dtos.deps.json
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients.Dtos\bin\Debug\net6.0\Api.Clients.Dtos.runtimeconfig.json
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients.Dtos\bin\Debug\net6.0\Api.Clients.Dtos.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients.Dtos\bin\Debug\net6.0\Api.Clients.Dtos.pdb
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients.Dtos\obj\Debug\net6.0\Api.Clients.Dtos.csproj.AssemblyReference.cache
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients.Dtos\obj\Debug\net6.0\Api.Clients.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients.Dtos\obj\Debug\net6.0\Api.Clients.Dtos.AssemblyInfoInputs.cache
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients.Dtos\obj\Debug\net6.0\Api.Clients.Dtos.AssemblyInfo.cs
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients.Dtos\obj\Debug\net6.0\Api.Clients.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients.Dtos\obj\Debug\net6.0\Api.Clients.Dtos.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients.Dtos\obj\Debug\net6.0\refint\Api.Clients.Dtos.dll
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients.Dtos\obj\Debug\net6.0\Api.Clients.Dtos.pdb
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients.Dtos\obj\Debug\net6.0\Api.Clients.Dtos.genruntimeconfig.cache
+C:\Users\My PC\source\repos\Api.Clients\Api.Clients.Dtos\obj\Debug\net6.0\ref\Api.Clients.Dtos.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients.Dtos\bin\Debug\net6.0\Api.Clients.Dtos.exe
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients.Dtos\bin\Debug\net6.0\Api.Clients.Dtos.deps.json
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients.Dtos\bin\Debug\net6.0\Api.Clients.Dtos.runtimeconfig.json
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients.Dtos\bin\Debug\net6.0\Api.Clients.Dtos.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients.Dtos\bin\Debug\net6.0\Api.Clients.Dtos.pdb
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients.Dtos\obj\Debug\net6.0\Api.Clients.Dtos.csproj.AssemblyReference.cache
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients.Dtos\obj\Debug\net6.0\Api.Clients.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients.Dtos\obj\Debug\net6.0\Api.Clients.Dtos.AssemblyInfoInputs.cache
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients.Dtos\obj\Debug\net6.0\Api.Clients.Dtos.AssemblyInfo.cs
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients.Dtos\obj\Debug\net6.0\Api.Clients.Dtos.csproj.CoreCompileInputs.cache
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients.Dtos\obj\Debug\net6.0\Api.Clients.Dtos.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients.Dtos\obj\Debug\net6.0\refint\Api.Clients.Dtos.dll
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients.Dtos\obj\Debug\net6.0\Api.Clients.Dtos.pdb
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients.Dtos\obj\Debug\net6.0\Api.Clients.Dtos.genruntimeconfig.cache
+C:\Harsha\harsha\harsha-tec\raviha\ClientGoals\Api.Clients.Dtos\obj\Debug\net6.0\ref\Api.Clients.Dtos.dll
